@@ -1,0 +1,11 @@
+D:\командный проект до конца года\CalculatorProject\obj\Debug\CalculatorProject.csproj.AssemblyReference.cache
+D:\командный проект до конца года\CalculatorProject\obj\Debug\CalculatorProject.Form1.resources
+D:\командный проект до конца года\CalculatorProject\obj\Debug\CalculatorProject.Properties.Resources.resources
+D:\командный проект до конца года\CalculatorProject\obj\Debug\CalculatorProject.csproj.GenerateResource.cache
+D:\командный проект до конца года\CalculatorProject\obj\Debug\CalculatorProject.csproj.CoreCompileInputs.cache
+D:\командный проект до конца года\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+D:\командный проект до конца года\CalculatorProject\bin\Debug\CalculatorProject.exe
+D:\командный проект до конца года\CalculatorProject\bin\Debug\CalculatorProject.pdb
+D:\командный проект до конца года\CalculatorProject\obj\Debug\CalculatorProject.exe
+D:\командный проект до конца года\CalculatorProject\obj\Debug\CalculatorProject.pdb
+D:\командный проект до конца года\CalculatorProject\obj\Debug\CalculatorProject.exe.config
